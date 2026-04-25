@@ -1,0 +1,10 @@
+{
+  "serverVersion": "Project Edge v1.7",
+  "cheats": {
+    "infiniteStamina": true,
+    "noFallDamage": false,
+    "xpMultiplier": 10,
+    "unlockAllDragons": true,
+    "patchKnownBugs": true
+  }
+}
